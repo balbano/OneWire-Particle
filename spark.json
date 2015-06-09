@@ -1,7 +1,7 @@
 {
-  "name": "OneWire-Photon",
+  "name": "Particle-OneWire",
   "author": "balbano",
   "license": "MIT",
   "version": "2.0.0",
-  "description": "Dallas OneWire protocol support with ReadTemp example and Photon Support"
+  "description": "Dallas OneWire protocol support with ReadTemp example Core and Photon Support"
 }
