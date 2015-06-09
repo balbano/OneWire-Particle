@@ -88,7 +88,7 @@ private:
       GPIO_Init(gpio_port, &GPIO_InitStructure);
     }
 
-    inline uint8_t OneWire::digitalReadFast() {
+    inline uint8_t digitalReadFast() {
       return GPIO_ReadInputDataBit(PIN_MAP[_pin].gpio_peripheral, PIN_MAP[_pin].gpio_pin);
     }
 
