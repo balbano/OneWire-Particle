@@ -122,7 +122,7 @@ sample code bearing this copyright.
 //--------------------------------------------------------------------------
 */
 
-#include "OneWire-Photon.h"
+#include "Particle-OneWire.h"
 #include "application.h"
 
 OneWire::OneWire(uint16_t pin){
