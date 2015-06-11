@@ -1,5 +1,17 @@
+USE THIS INSTEAD:
+=================
+
+This is OneWire library available on the particle web IDE, so this should be considered the most official one: https://github.com/Hotaman/OneWireSpark
+
+I will be doing any further work in my fork of the above library: https://github.com/balbano/OneWireSpark
+
+Don't use this repo! Use one of the two above.
+
+OLD README:
+===========
+
 OneWire
-=======
+-------
 
 A port of the [PJRC OneWire library](https://www.pjrc.com/teensy/td_libs_OneWire.html) for Arduino to work for both the Particle Core and Photon
 
